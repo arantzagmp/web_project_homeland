@@ -29,8 +29,7 @@
     line-height: 2.125rem;
   }
   .intro__text-right {
-    align-self: stretch;
-    text-align: right;
+    justify-content: flex-end;
   }
 }
 @media screen and (max-width: 768px) and (min-width: 321px) {
@@ -63,14 +62,7 @@
     line-height: 2.125rem;
   }
   .intro__text-right {
-    width: 45rem;
-    color: #fff;
-    text-align: right;
-    font-family: Inter;
-    font-size: 1.5rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 2.125rem;
+    justify-content: flex-end
   }
 }
 @media screen and (max-width: 320px) {
@@ -100,13 +92,6 @@
     line-height: 1.875rem;
   }
   .intro__text-right {
-    align-self: stretch;
-    color: #fff;
-    text-align: right;
-    font-family: Inter;
-    font-size: 1.5rem;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 2.125rem;
+    justify-content: flex-end
   }
 }
