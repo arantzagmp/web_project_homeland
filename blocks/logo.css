@@ -1,0 +1,24 @@
+@media screen and (min-width: 769px) {
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.375rem;
+  }
+}
+@media screen and (max-width: 768px) and (min-width: 321px) {
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.3125rem;
+  }
+}
+@media screen and (max-width: 320px) {
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.3125rem;
+  }
+}
