@@ -11,14 +11,18 @@
   .page {
     display: flex;
     width: 100%;
-    padding: 1.5rem 9.25rem;
+    padding: 1.5625rem 2.6875rem;
+    gap: 6.0625rem;
     flex-direction: column;
     align-items: center;
-    gap: 5.75rem;
     background-color: #2a2c2f;
     background-size: cover;
   }
-
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 6.0625rem;
+  }
 }
 @media screen and (max-width: 768px) and (min-width: 321px){
   header,
@@ -39,6 +43,11 @@
     gap: 4.6875rem;
     background-color: #2a2c2f;
     background-size: cover;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 4.6875rem;
   }
 
 }
@@ -61,5 +70,10 @@ header,
     gap: 3.4375rem;
     background-color: #2a2c2f;
     background-size: cover;
+  }
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 3.4375rem;
   }
 }
