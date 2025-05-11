@@ -32,7 +32,7 @@
     width: 61.5rem;
     height: 38.4375rem;
     flex-shrink: 0;
-    background: url(/images/foto-header.jpg) lightgray 50% /
+    background: url(images/foto-header.jpg) lightgray 50% /
       cover no-repeat;
   }
 }
@@ -69,7 +69,7 @@
     width: 48rem;
     height: 30rem;
     flex-shrink: 0;
-    background: url(/images/foto-header.jpg) lightgray 50% /
+    background: url(images/foto-header.jpg) lightgray 50% /
       cover no-repeat;
   }
 }
@@ -103,7 +103,7 @@
   .lead__image {
     height: 12.5rem;
     align-self: stretch;
-    background: url(/images/foto-header.jpg) lightgray 50% /
+    background: url(images/foto-header.jpg) lightgray 50% /
       cover no-repeat;
   }
 }
