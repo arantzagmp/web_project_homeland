@@ -1,6 +1,1 @@
-@font-face {
-  font-family: 'Inter-VariableFont';
-  src: url(Inter,Istok_Web,Noto_Serif,Ubuntu/Istok_Web) format('woff2');
-  font-weight: 100 900;
-  font-style: normal;
-}
+@import url(/vendor/fonts/IstokWeb-Regular.ttf);
