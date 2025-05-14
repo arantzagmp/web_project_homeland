@@ -8,7 +8,7 @@
   .footer__copyright {
     color: #fff;
     text-align: right;
-    font-family: Inter, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.875rem;
     font-style: normal;
     font-weight: 400;
@@ -25,7 +25,7 @@
   .footer__copyright {
     color: #fff;
     text-align: right;
-    font-family: Inter, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.875rem;
     font-style: normal;
     font-weight: 400;
@@ -41,7 +41,7 @@
   }
   .footer__copyright {
     color: #fff;
-    font-family: Inter, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-size: 0.875rem;
     font-style: normal;
     font-weight: 400;
